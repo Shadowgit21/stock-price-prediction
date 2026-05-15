@@ -85,10 +85,15 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Dashboard Preview
-(Add your project screenshots here)
+![Dashboard Preview](sc1.jpeg)
 
 ### Prediction Graph
-(Add prediction graph screenshot here)
+![Prediction Graph](sc2.jpeg)
+![App Screenshot](sc3.jpeg)
+
+![Visualization](sc4.jpeg)
+
+![Model Output](sc5.jpeg)
 
 ---
 
